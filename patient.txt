@@ -1,0 +1,52 @@
+
+
+Patient Details
+ Date     :   25 april
+patient     :   Vedant  2564879652
+
+Patient Details
+ Disease     :   Typhoid
+
+Patient Details
+ Date     :   236
+patient     :   gbybgybyg
+
+Patient Details
+ Date     :   23
+patient     :   23
+
+Patient Details
+ Disease     :   Fungal infection
+
+Patient Details
+ medicine     :   hydrocortisone
+
+Patient Details
+ Date     :   3432343
+patient     :   rwerwerewrrwe
+
+Patient Details
+ Disease     :   Malaria
+
+
+ medicine     :   proguanil
+
+Patient Details
+ Date     :   12/04/23
+patient     :   pratham / 9975564121
+
+Patient Details
+ Disease     :   Dengue
+
+
+ medicine     :   Acetaminophen
+
+Patient Details
+ Date     :   r
+patient     :   r
+
+Patient Details
+ Disease     :   Impetigo
+
+
+ medicine     :   loratadine (Claritin)
